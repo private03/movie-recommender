@@ -1,0 +1,28 @@
+# secrets
+.env
+.kaggle/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# environments
+.venv/
+
+# generated data
+data/raw/
+data/processed/
+
+# trained artifacts
+artifacts/
+
+# notebooks
+.ipynb_checkpoints/
+
+# streamlit cache
+.streamlit/secrets.toml
